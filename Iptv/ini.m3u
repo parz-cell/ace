@@ -1,5 +1,5 @@
 #EXTM3U Size=medium
 
 #EXTINF:0 type="playlist" logo="https://m.media-amazon.com/images/M/MV5BMTI3NTI2NDAtNWQzYy00ZGY4LWExZDMtMjc3NTNhMGUzODJiXkEyXkFqcGdeQXVyNDA5NDAxMjE@._V1_.jpg" description="179 Episódios",  A Terra Prometida
-#EXTBG:
+#EXTBG:#902714
 https://raw.githubusercontent.com/parz-cell/ace/master/Iptv/novela/a-terra-prometida.m3u
