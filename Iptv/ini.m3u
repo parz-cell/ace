@@ -3,3 +3,7 @@
 #EXTINF:0 type="playlist" logo="https://m.media-amazon.com/images/M/MV5BMTI3NTI2NDAtNWQzYy00ZGY4LWExZDMtMjc3NTNhMGUzODJiXkEyXkFqcGdeQXVyNDA5NDAxMjE@._V1_.jpg" description="179 Episódios",  A Terra Prometida
 #EXTBG:#902714
 https://raw.githubusercontent.com/parz-cell/ace/master/Iptv/novela/a-terra-prometida.m3u
+
+#EXTINF:0 type="playlist" logo="https://m.media-amazon.com/images/M/MV5BMDljMzFmNjgtYjkwZi00NjdiLWFhOGEtNTYzOGMwMmU1MGEwXkEyXkFqcGdeQXVyOTA1NTMzNjU@._V1_.jpg" description="155 Episódios",  Apocalipse
+#EXTBG:#434355
+https://raw.githubusercontent.com/parz-cell/ace/master/Iptv/novela/apocalipse.m3u
